@@ -1,6 +1,4 @@
-# 1. Write the README.md file directly
-cat << 'EOF' > README.md
-# CloudSentry-MCP: Voice-Powered SRE & Cloud Operations Copilot
+
 
 CloudSentry-MCP is an agentic DevOps and Site Reliability Engineering (SRE) assistant designed for hands-free infrastructure management. By bridging the **Model Context Protocol (MCP)** with an **Alexa+ voice interface**, CloudSentry enables engineers to monitor system health, inspect CloudWatch error traces, and execute remediation workflows via natural voice commands or autonomous agentic workflows.
 
